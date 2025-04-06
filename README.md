@@ -1,4 +1,4 @@
-## DJANGO API 2 RABEL YANG TIDAK BERHUBUNGAN
+## DJANGO API 2 TABEL YANG TIDAK BERHUBUNGAN
 
 tabel pelanggan: tbl_customer (id, nameCustomer, email, nohp).
 tabel produk: tbl_product (id, nameProduct, spesifikasi, price)
@@ -381,10 +381,18 @@ content-type: application/json
 }
 ```
 
+### 7. URLS - LENGKAP
+```py
 
-### 7. VIEWS
+```
 
+## 7. VIEWS
+
+```py
+
+```
 ## 8. UNIT TEST
+
 
 ## 9. RESUEST REST
 
