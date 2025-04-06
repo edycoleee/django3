@@ -1,0 +1,10 @@
+### 1. GET TEST
+ GET http://localhost:8000/api/test1 HTTP/1.1
+
+### 2. POST TEST 
+POST http://localhost:8000/api/test2
+content-type: application/json
+
+{
+"key1": "Value1", "key2": "Value2"
+}
