@@ -275,7 +275,7 @@ Request Body:
 
 Status: 200 OK
 
-ß```json
+```json
 {
   "response": {
     "key1": "Value1",
