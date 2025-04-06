@@ -367,7 +367,8 @@ python manage.py test customer --verbosity=2
 ```
 
 #### 6. REQUEST REST - SEDERHANA
-```json
+
+```js
 ### 1. GET TEST
  GET http://localhost:8000/api/test1 HTTP/1.1
 
