@@ -242,8 +242,10 @@ Endpoint: /test1
 Method: GET
 
 ✅ Contoh Response
-```json
+
 Status: 200 OK
+
+```json
 {
   "response": "Hello Django"
 }
@@ -261,16 +263,19 @@ Request Headers:
 
 Content-Type: application/json
 
-```json
 Request Body:
+
+```json
 {
   "key1": "Value1",
   "key2": "Value2"
 }
 ```
 ✅ Contoh Response
-```json
+
 Status: 200 OK
+
+ß```json
 {
   "response": {
     "key1": "Value1",
